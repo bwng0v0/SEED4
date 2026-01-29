@@ -1,0 +1,6 @@
+# Ignore SEED-IV related data directories
+eeg_feature_smooth/
+eeg_raw_data/
+eye_feature_smooth/
+eye_raw_data/
+seed_iv/
